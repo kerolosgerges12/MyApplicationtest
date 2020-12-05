@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GradProg</string>
+    <string name="el_motatwera_splash">EL Motatwera</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forrget_password">Forrget Password....?</string>
+    <string name="logine">Logine</string>
+    <string name="can_t_sign_in_reset_password">Can’t Sign In? Reset Password</string>
+    <string name="send_link">SEND LINK</string>
+    <string name="no_problem_just_give_in_your_phone_number_and_we_will_send_you_a_link_to_reset_your_password">No Problem! Just give in your Phone Number and we will send you a link to reset your password</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="todo">TODO</string>
+</resources>
